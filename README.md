@@ -11,4 +11,4 @@ O usando el archivo requirements.txt incluido:
 pip install -r requirements.txt
 
 python ciudad_15min_reordenamiento.py --place "San Juan de Miraflores, Lima, Peru" 
-se puede ver que el nsga2 si funciona y se ve mejora a medida q pasa las generaciones pero no he puesto el mapa distrital en esta version aun 
+se puede ver que el nsga2 si funciona y se ve mejora a medida q pasa las generaciones pero no he puesto el mapa distrital en esta version aun , tiene mapa de calor y estadisticos. y solo tiene un servicio optimizado
